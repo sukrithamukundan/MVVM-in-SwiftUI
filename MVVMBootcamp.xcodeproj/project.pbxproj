@@ -46,17 +46,9 @@
 			isa = PBXGroup;
 			children = (
 				0D37CE212C46F05400A862D4 /* View */,
-				0D37CE202C46F04100A862D4 /* Model */,
 				0D37CE222C46F05C00A862D4 /* ViewModel */,
 			);
 			path = Details;
-			sourceTree = "<group>";
-		};
-		0D37CE202C46F04100A862D4 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
 			sourceTree = "<group>";
 		};
 		0D37CE212C46F05400A862D4 /* View */ = {
